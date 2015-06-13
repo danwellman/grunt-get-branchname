@@ -1,7 +1,7 @@
 {
   "name": "grunt-get-branchname",
   "description": "Get the current Git branch name and pass it to another task's config",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/danwellman/grunt-get-branchname",
   "author": {
     "name": "Dan Wellman",
