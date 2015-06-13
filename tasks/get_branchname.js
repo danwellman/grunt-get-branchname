@@ -24,7 +24,7 @@ module.exports = function (grunt) {
 
         if (!options.target) {
             grunt.log.error('target option is null, please specify a target');
-            done('fail');
+            done(false);
         }
 
         var args = [
