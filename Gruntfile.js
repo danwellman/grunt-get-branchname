@@ -34,6 +34,12 @@ module.exports = function(grunt) {
           options: {
               target: 'get_branchname.testconfig.branchname'
           }
+      },
+      long_option: {
+          options: {
+              target: 'get_branchname.testconfig2.branchname',
+              short: false
+          }
       }
     },
 
